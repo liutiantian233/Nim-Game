@@ -52,7 +52,6 @@ play_str=input("Would you like to play? (0=no, 1=yes) ")
 human = int(0)     # Initialize the number of times humans win the game
 computer = int(0)  # Initialize the number of times computer win the game
 ```
-
 ## Feedback and suggestions
 - E-mail：<liutia20@msu.edu>
 
