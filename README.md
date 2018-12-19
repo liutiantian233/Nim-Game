@@ -1,7 +1,5 @@
 # Nim Game
 
-@[TianTian|MSU Computer Science Student]
-
 **Nim** is a mathematical game of strategy in which two players take turns removing objects from distinct piles. The game will be played between the human player and the computer player. In this project, you will handle the computer player while a user plays the game. Choosing the optimal game strategy is complicated and will likely require you to do things that we have not covered yet. We will use a simplified version here.
 
 **The rules** Given two piles, numbered 1 and 2, in which each pile contains some numbers of stones. In each turn, a player can choose only one pile and remove one, two, or three stones from that pile. The player who cannot move is considered to lose the game (The one who takes the last stone is the winner).
@@ -48,6 +46,7 @@ print('''Nim is a simple two-player game based on removing stones.
          last stone wins the game.''')
 
 play_str=input("Would you like to play? (0=no, 1=yes) ")
+
 human = int(0)     # Initialize the number of times humans win the game
 computer = int(0)  # Initialize the number of times computer win the game
 ```
