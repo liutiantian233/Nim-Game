@@ -188,10 +188,10 @@ while int(play_str) != 0:  # use while to determine if the game starts
     else:
         play_str = input("\nWould you like to play again? (0=no, 1=yes) ")
         # Judge whether to come again
-        
 else:
    print("\nThanks for playing! See you again soon!")# Just the end.
 ```
+
 ## Feedback and suggestions
 - E-mail：<liutia20@msu.edu>
 
