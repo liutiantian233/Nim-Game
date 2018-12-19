@@ -35,6 +35,9 @@
 * If the user choose not to play the game again, the program should display a goodbye message.
 * Your program should verify that each of the user's moves is valid. (That is, the pile must be legal, the user must remove between 1 and 3 stones, and the user must not remove more stones than the pile holds.) If the user's move is illegal, your program should repeatedly print a sensible error message and get a new input, until the user selects a legal move.
 
+### The Pic
+![image](https://github.com/liutiantian233/Nim-Game/blob/master/While%20loop.png)
+
 ### The beginning of the code
 ```python
 @TianTian
