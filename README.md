@@ -48,7 +48,6 @@ print('''Nim is a simple two-player game based on removing stones.
          last stone wins the game.''')
 
 play_str=input("Would you like to play? (0=no, 1=yes) ")
-
 human = int(0)     # Initialize the number of times humans win the game
 computer = int(0)  # Initialize the number of times computer win the game
 ```
