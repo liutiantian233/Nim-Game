@@ -18,7 +18,7 @@
 
 ### Project Description
 * Initialize both piles to have 5 stones each.
-* You will need a **while** loop to play the game (this will be in addition to the while loop in the provided code that is used to ask whether the human player wants to play another game.)
+* You will need a **while** loop to play the game (this will be in addition to the while loop in the code that is used to ask whether the human player wants to play another game.)
 * Play alternates between the human and computer. Use a Boolean variable to keep track of who is playing. The human player starts.
 * Within this **while** loop:
 >When it is the human player’s turn:
