@@ -54,6 +54,7 @@ computer = int(0)  # Initialize the number of times computer win the game
 ```
 ### The loop of the code
 ```python
+@TianTian
 while int(play_str) != 0:  # use while to determine if the game starts
     
     pile1 = int(5)
